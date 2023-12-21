@@ -2,7 +2,7 @@ package com.mahi.SpringBootFormHandling.model;
 
 
 import java.sql.Date;
-
+// model class
 public class User {
     private String name;
     private String email;
